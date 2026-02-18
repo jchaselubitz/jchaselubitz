@@ -16,8 +16,10 @@ Founder + software engineer. I build end-to-end products—especially where real
 [![X](https://img.shields.io/badge/X-jchaselubitz-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/jchaselubitz)
 
 ---
+## 🚀 Portfolio
+You can find a detailed review of my work here: https://github.com/jchaselubitz/Portfolio
 
-## 🚀 Selected work
+## Selected work
 
 ### **Kove** — Automated rent tracking + tenant communication
 Automates the "awkward middle" of rent collection for small landlords: bank-linked payment detection, receivables/arrears tracking, and tenant comms—without forcing tenants into a portal.
