@@ -6,10 +6,6 @@ Create a public repo named "jchaselubitz" and paste this into README.md
 # Jake Chase-Lubitz
 
 Founder + software engineer. I build end-to-end products—especially where real-world constraints (payments, compliance, operations) need to become clean, reliable software.
-
-**Website:** https://Jacobchaselubitz.com
-**Handle:** `jchaselubitz`
-
 ---
 
 ## 🌐 Links
@@ -74,7 +70,6 @@ Frontend: https://github.com/cooperativ-labs/contributor-credits-frontend
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white" />
   <img src="https://img.shields.io/badge/Postgres-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
   <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" />
   <img src="https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white" />
