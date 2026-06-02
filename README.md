@@ -25,10 +25,13 @@ You can find a detailed review of my work here: https://github.com/jchaselubitz/
 Automates the "awkward middle" of rent collection for small landlords: bank-linked payment detection, receivables/arrears tracking, and tenant comms—without forcing tenants into a portal.
 **Stack:** Next.js (App Router) · React · TypeScript · Supabase (Postgres/Auth/Storage/Edge Functions) · Stripe Financial Connections · Twilio · Resend
 
-### **Overskill** — CLI to sync AI agent skills across repos
-A skills manager for AI coding agents that keeps instruction files consistent across projects (Claude Code, Cursor, Codex, Windsurf). Offline-first and auditable.
-Repo: https://github.com/jchaselubitz/overskill-cli
-Site: https://overskill.jacobchaselubitz.com
+### **Overlord** — AI agent task management
+Agentic task runner and orchestration platform for managing multi-step AI workflows across codebases.
+Site: https://www.ovld.ai
+
+### **AgentPod** — Docker sandbox for AI coding agents
+A Docker-based environment for running AI coding agent CLIs (Claude Code, Codex, OpenCode, Cursor Agent) with restricted filesystem access. **Designed so your agent can configure it for you** via the `agent-pod protocol` command interface.
+Repo: https://github.com/jchaselubitz/agent-pod
 
 ### **Drill** — AI language learning (mobile)
 Mobile language learning with AI tutoring + spaced repetition.
