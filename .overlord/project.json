@@ -1,0 +1,9 @@
+{
+  "_comment": "This file lets Overlord (https://www.ovld.ai) identify which project this folder belongs to. It is created automatically when the folder is added as a project resource. DO NOT EDIT MANUALLY.",
+  "projects": [
+    {
+      "id": "693aee9a-2d5d-4e7e-8ca9-63b02c1b4cb0",
+      "name": "Personal Site"
+    }
+  ]
+}
