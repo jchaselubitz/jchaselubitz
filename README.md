@@ -22,7 +22,7 @@ You can find a detailed review of my work here: https://github.com/jchaselubitz/
 ## Selected work
 
 ### **Overlord** — AI agent task management
-Agentic task runner and orchestration platform for managing multi-step AI workflows across codebases.
+Orchestration platform for running AI agents on structured work. Each ticket holds a sequence of objectives — discrete, deliverable steps — so a single piece of work can span multiple agent sessions, models, or machines without losing context. Agents attach to a ticket, read the full history of prior deliveries and decisions, execute their objective, and deliver back structured output that becomes part of the durable record. That shared context means a new agent picking up mid-task knows exactly what was done, why, and what's left — no re-discovery, no drift.
 Site: https://www.ovld.ai
 
 ### **AgentPod** — Docker sandbox for AI coding agents
